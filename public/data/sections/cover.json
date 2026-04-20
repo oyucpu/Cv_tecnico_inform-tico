@@ -1,0 +1,368 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Welcome!",
+                "title_short_nav": "About me",
+                "title_long_prefix": "Hello...",
+                "title_long": "I'm {{Antonio Oyuela!}}"
+            },
+            "es": {
+                "title_short": "¡Saludos!",
+                "title_short_nav": "Sobre mí",
+                "title_long_prefix": "Hola...",
+                "title_long": "Soy {{Antonio Oyuela!}}"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleInlineList",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "display_as_list_if_width_is_lower_than": 380
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "label": "España – Madrid",
+                    "link": {"href": "", "tooltipString": ""},
+                    "faIcon": "pi pi-map-marker"
+                },
+                {
+                    "id": 2,
+                    "label": "antonio.oyuwla.dev@gmail.com",
+                    "link": {"href": "mailto:antonio.oyuela.dev@gmail.com", "tooltipString": "email_me"},
+                    "faIcon": "fa-regular fa-envelope"
+                },
+                {
+                    "id": 3,
+                    "label": "@oyucpu",
+                    "link": {"href": "https://github.com/oyucpu", "tooltipString": "see_on_github"},
+                    "faIcon": "fa-brands fa-github"
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleText",
+            "locales": {
+                "en": {"title": "{{A little bit}} about me..."},
+                "es": {"title": "{{Un poco}} sobre mí..."}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/pictures/about-texts-image-1.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "text": "<p>Give me a computer and I'll change your world.</p><p>I am a {{Computer Technician}} with [[more than 3 years]] of experience, specialized in frontend development and experienced in production environments and system support.</p><p>This professional path has allowed me to adapt to different environments and needs. I consider myself a technical profile with a creative mindset, capable of providing efficient and functional solutions. I am oriented towards collaboration in projects where technology and creativity.</p><p>I look forward to collaborating [[with you!]]</p>"
+                        },
+                        "es": {
+                            "text":"<p>Si tengo un ordenador, te cambio el mundo.</p><p>Soy {{Técnico Informático}} con [[más de 3 años]] de experiencia, especializado en desarrollo frontend y con experiencia en entornos de producción y soporte de sistemas.</p><p>Este recorrido profesional me ha permitido adaptarme a diferentes entornos y necesidades. Me considero un perfil técnico con una mentalidad creativa, capaz de aportar soluciones eficientes y funcionales. Estoy orientado a la colaboración en proyectos donde la tecnología y la creatividad.</p><p>¡Espero con interés colaborar [[contigo!]]</p>"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 3,
+            "component": "ArticleTestimonials",
+            "locales": {
+                "en": {"title": "My {{Certifications}}"},
+                "es": {"title": "Mis {{Certificados}}"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+        {
+          "id": 1,
+          "link": {
+            "href": "https://www.udemy.com/certificate/UC-db5077a5-458c-4617-9ce5-c03c48f0303e/",
+            "tooltipString": "open_website"
+          },
+          "img": "images/pictures/udemy.png",
+          "label": "",
+          "faIcon": "fa-solid fa-certificate",
+          "faIconColors": {
+            "bg": "#1a1a2e",
+            "fill": "#e040fb"
+          },
+          "locales": {
+            "en": {
+              "title": "Certification in {{IPTABLES}}",
+              "text": "Firewall administration using iptables in Linux: traffic filtering, NAT, port control, and network security. April 2026"
+            },
+            "es": {
+              "title": "Certificación en {{IPTABLES}}",
+              "text": "Administración de firewall con iptables en Linux: filtrado de tráfico, NAT, control de puertos y seguridad de red. Abril 2026"
+            }
+          }
+        },
+        {
+          "id": 2,
+          "link": {
+            "href": "",
+            "tooltipString": "open_website"
+          },
+          "img": "images/pictures/udemy.png",
+          "label": "",
+          "faIcon": "fa-solid fa-certificate",
+          "faIconColors": {
+            "bg": "#1a1a2e",
+            "fill": "#e040fb"
+          },
+          "locales": {
+            "en": {
+              "title": "Nombre de la {{Certificación}}",
+              "text": "Descripción breve de la certificación y las habilidades que acredita. Oct 2024"
+            },
+            "es": {
+              "title": "Nombre de la {{Certificación}}",
+              "text": "Descripción breve de la certificación y las habilidades que acredita. Oct 2024"
+            }
+          }
+        },
+        {
+          "id": 3,
+          "link": {
+            "href": "",
+            "tooltipString": "open_website"
+          },
+          "img": "images/pictures/udemy.png",
+          "label": "",
+          "faIcon": "fa-solid fa-certificate",
+          "faIconColors": {
+            "bg": "#1a1a2e",
+            "fill": "#e040fb"
+          },
+          "locales": {
+            "en": {
+              "title": "Nombre de la {{Certificación}}",
+              "text": "Descripción breve de la certificación y las habilidades que acredita. Jan 2024"
+            },
+            "es": {
+              "title": "Nombre de la {{Certificación}}",
+              "text": "Descripción breve de la certificación y las habilidades que acredita. Ene 2024"
+            }
+          }
+        },
+        {
+          "id": 4,
+          "link": {
+            "href": "",
+            "tooltipString": "open_website"
+          },
+          "img": "images/pictures/udemy.png",
+          "label": "",
+          "faIcon": "fa-solid fa-certificate",
+          "faIconColors": {
+            "bg": "#1a1a2e",
+            "fill": "#e040fb"
+          },
+          "locales": {
+            "en": {
+              "title": "Nombre de la {{Certificación}}",
+              "text": "Descripción breve de la certificación y las habilidades que acredita. Jun 2023"
+            },
+            "es": {
+              "title": "Nombre de la {{Certificación}}",
+              "text": "Descripción breve de la certificación y las habilidades que acredita. Jun 2023"
+
+                        }
+                    }
+                },
+                {
+          "id": 5,
+          "link": {
+            "href": "",
+            "tooltipString": "open_website"
+          },
+          "img": "images/pictures/udemy.png",
+          "label": "",
+          "faIcon": "fa-solid fa-certificate",
+          "faIconColors": {
+            "bg": "#1a1a2e",
+            "fill": "#e040fb"
+          },
+          "locales": {
+            "en": {
+              "title": "Nombre de la {{Certificación}}",
+              "text": "Descripción breve de la certificación y las habilidades que acredita. Jun 2023"
+            },
+            "es": {
+              "title": "Nombre de la {{Certificación}}",
+              "text": "Descripción breve de la certificación y las habilidades que acredita. Jun 2023"
+
+                        }
+                    }
+                },
+                {
+          "id": 6,
+          "link": {
+            "href": "",
+            "tooltipString": "open_website"
+          },
+          "img": "images/pictures/udemy.png",
+          "label": "",
+          "faIcon": "fa-solid fa-certificate",
+          "faIconColors": {
+            "bg": "#1a1a2e",
+            "fill": "#e040fb"
+          },
+          "locales": {
+            "en": {
+              "title": "Nombre de la {{Certificación}}",
+              "text": "Descripción breve de la certificación y las habilidades que acredita. Jun 2023"
+            },
+            "es": {
+              "title": "Nombre de la {{Certificación}}",
+              "text": "Descripción breve de la certificación y las habilidades que acredita. Jun 2023"
+
+                        }
+                    }
+                }
+
+
+            ]
+        },
+
+        {
+            "id": 4,
+            "component": "ArticleInfoList",
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "locales": {
+                "en": {"title": "Personal {{interests}}"},
+                "es": {"title": "Intereses {{personales}}"}
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-solid fa-video",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "{{AI}} video editing",
+                            "text": "Learning to use AI tools to enhance my videos."
+                        },
+                        "es": {
+                            "title": "Edición de video con {{AI}}",
+                            "text": "Aprendiendo a usar herramientas de IA para mejorar mis videos."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-solid fa-palette",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "{{Arts}} & Illustration",
+                            "text": "Practicing digital art and exploring new styles."
+                        },
+                        "es": {
+                            "title": "{{Arte}} y Ilustración",
+                            "text": "Practicando arte digital y explorando nuevos estilos."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-solid fa-chart-line",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "{{Investing}} & Finance",
+                            "text": "Learning the basics of stocks and personal finance."
+                        },
+                        "es": {
+                            "title": "{{Inversión}} y Finanzas",
+                            "text": "Aprendiendo los conceptos básicos de acciones y finanzas personales."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-solid fa-window-restore",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "{{UX}} design",
+                            "text": "Studying user experience principles."
+                        },
+                        "es": {
+                            "title": "Diseño {{UX}}",
+                            "text": "Estudiando los principios de la experiencia del usuario."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": "",
+                    "faIcon": "fa-solid fa-camera-retro",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "{{Photography}} & Photoshop",
+                            "text": "Enhancing photos through creative editing techniques."
+                        },
+                        "es": {
+                            "title": "{{Fotografía}} y Photoshop",
+                            "text": "Mejorando fotos a través de técnicas creativas de edición."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "faIcon": "fa-solid fa-drum-steelpan",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "Playing {{drums}}",
+                            "text": "Exploring different genres and improving my skills."
+                        },
+                        "es": {
+                            "title": "Tocar {{batería}}",
+                            "text": "Explorando diferentes géneros y mejorando mis habilidades."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Antonio Oyuela",
+
+    "profilePictureUrl": "images/pictures/t2027.png",
+    "resumePdfUrl": "",
+
+    "statusCircleVisible": true,
+    "statusCircleVariant": "available",
+    "statusCircleHoverMessage": "status_message_available_for_work",
+
+    "locales": {
+        "en": {
+            "localized_name": "Antonio Oyuela",
+            "localized_name_stylized": " [[Antonio {{Oyuela}}]]",
+            "status_message_available_for_freelance": "Available to work!",
+            "roles": [
+                "Creative IT Technician",
+                "Creative Microcomputer Technician",
+                "Technical Support",
+                "Systems Technician",
+                "Help Desk",
+                "Creative",
+                "Content Creator"
+            ]
+        },
+        "es": {
+            "status_message_available_for_freelance": "¡Disponible para trabajar!",
+            "roles": [
+                "Técnico Creativo Informático",
+                "Técnico Creativo Microinformático",
+                "Soporte Técnico",
+                "Técnico de Sistemas",
+                "Help Desk",
+                "Creativo",
+                "Creador de Contenido"
+            ]
+        }
+    }
+}

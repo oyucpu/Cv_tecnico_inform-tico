@@ -1,0 +1,285 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Life recently",
+                "title_short_nav": "Updates",
+                "title_long_prefix": "Take a look at my",
+                "title_long": "Recent {{Updates}}"
+            },
+            "es": {
+                "title_short": "Vida Reciente",
+                "title_short_nav": "Actualizaciones",
+                "title_long_prefix": "Consulta mis",
+                "title_long": "Actualizaciones {{Recientes}}"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleFacts",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": null,
+                    "faIcon": "fa-solid fa-tablet-screen-button",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "03",
+                            "text": "Apps Published"
+                        },
+                        "es": {
+                            "text": "Aplicaciones Publicadas"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": null,
+                    "faIcon": "fa-solid fa-star",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "100+",
+                            "text": "Stars on GitHub"
+                        },
+                        "es": {
+                            "text": "Estrellas en GitHub"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": null,
+                    "faIcon": "fa-solid fa-globe",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "12",
+                            "text": "Countries visited"
+                        },
+                        "es": {
+                            "text": "Países Visitados"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": null,
+                    "faIcon": "fa-solid fa-diagram-project",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "07",
+                            "text": "Open-source projects"
+                        },
+                        "es": {
+                            "text": "Proyectos de Código Abierto"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": null,
+                    "faIcon": "fa-solid fa-coffee",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "20,000",
+                            "text": "Coffees consumed"
+                        },
+                        "es": {
+                            "text": "Cafés Consumidos"
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "img": null,
+                    "faIcon": "fa-solid fa-laptop-code",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "1,000,000+",
+                            "text": "Lines of code"
+                        },
+                        "es": {
+                            "text": "Líneas de código"
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "img": null,
+                    "faIcon": "fa-solid fa-heart",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "Infinite",
+                            "text": "Passion for learning"
+                        },
+                        "es": {
+                            "title": "Infinita",
+                            "text": "Pasión por Aprender"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleThread",
+            "locales": {
+                "en": { "title": "Quick {{Facts}}" },
+                "es": { "title": "Feed de {{Noticias}}" }
+            },
+            "settings": {
+                "max_rows_collapse_threshold": 3,
+                "order_items_by": "dateStart",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "date": {},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {"title": "", "province": "", "country": "", "institution": "", "text": ""},
+                        "es": {"title": "", "province": "", "country": "", "institution": "", "text": ""}
+                    }
+                },
+                {
+                    "id": 2,
+                    "date": {},
+                    "preview": {
+                        "links": [{
+                            "href": "",
+                            "tooltipString": "",
+                            "faIcon": ""
+                        }],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "",
+                            "province": "",
+                            "country": "",
+                            "institution": "",
+                            "text": ""
+                        },
+                        "es": {
+                            "title": "",
+                            "province": "",
+                            "country": "",
+                            "institution": "",
+                            "text": ""
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "date": {},
+                    "preview": {
+                        "links": [
+                            {"href": "", "tooltipString": "", "faIcon": ""}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "",
+                            "province": "",
+                            "country": "",
+                            "institution": "",
+                            "text": "",
+                            "list": []
+                        },
+                        "es": {
+                            "title": "",
+                            "province": "",
+                            "country": "",
+                            "institution": "",
+                            "text": "",
+                            "list": []
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "date": {},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "",
+                            "province": "",
+                            "country": "",
+                            "institution": "",
+                            "text": ""
+                        },
+                        "es": {
+                            "title": "",
+                            "province": "",
+                            "country": "",
+                            "institution": "",
+                            "text": ""
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "date": {},
+                    "preview": {
+                        "links": [
+                            {"href": "", "tooltipString": "", "faIcon": ""},
+                            {"href": "", "tooltipString": "", "faIcon": ""}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "",
+                            "province": "",
+                            "country": "",
+                            "institution": "",
+                            "text": "",
+                            "list": []
+                        },
+                        "es": {
+                            "title": "",
+                            "province": "",
+                            "country": "",
+                            "institution": "",
+                            "text": "",
+                            "list": []
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
