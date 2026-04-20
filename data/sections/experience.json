@@ -35,19 +35,19 @@
                     "dateEnd": {"year": 2022, "month": 12},
                     "locales": {
                         "en": {
-                            "title": "{{Inform}} Developer",
-                            "province": "Madrid",
+                            "title": "IT Technician",
+                            "province": "Madrid (Madrid)",
                             "country": "Spain",
-                            "institution": "",
-                            "text": "Developed and maintained [[scalable backend systems]] for various clients, optimizing database performance and implementing RESTful APIs to improve application functionality.",
+                            "institution": "Satel Iberia S.L.",
+                            "text": "Support, maintenance, and optimization of IT systems in professional environments, ensuring proper operation of networks, devices, and services.",
                             "list": [],
-                            "tags": ["PHP8.0", "MySQL", "Laravel"]
+                            "tags": ["Technical Support", "Systems", "Networking", "Hardware", "Software", "IT", "Maintenance", "IT Security"]
                         },
                         "es": {
-                            "title": "Desarrollador {{Backend}}",
-                            "province": "Toronto",
-                            "country": "Canadá",
-                            "institution": "Sapphire Studio",
+                            "title": "Técnico {{Informático}}",
+                            "province": "Madrid (Madrid)",
+                            "country": "España",
+                            "institution": "Satel Iberia S.L.",
                             "text": "Desarrollé y mantuve [[sistemas backend escalables]] para varios clientes, optimizando el rendimiento de bases de datos e implementando APIs RESTful para mejorar la funcionalidad de las aplicaciones.",
                             "list": [],
                             "tags": []
