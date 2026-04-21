@@ -139,6 +139,7 @@
             "faIcon": "",
             "faIconColors": { "bg": "", "fill": "#4A90E2" },
             "date": {},
+            "percentage": 50,
             "locales": {
                 "en": {
                     "title": "",
