@@ -144,7 +144,7 @@
                     "locales": {
                         "en": {
                             "title": "Creación de {{}}",
-                            "text": "Certified developer by Node.js Foundation.",
+                            "text": "",
                             "level": ""
                         },
                         "es": {
