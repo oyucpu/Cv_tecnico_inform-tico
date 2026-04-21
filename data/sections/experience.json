@@ -59,8 +59,8 @@
                     "img": "images/pictures/computing.jpeg",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2018, "month": 6},
-                    "dateEnd": {"year": 2020, "month": 12},
+                    "dateStart": {"year": 2018, "month": 3},
+                    "dateEnd": {"year": 2018, "month": 7},
                     "locales": {
                         "en": {
                             "title": "{{Full-Stack}} Engineer",
@@ -87,8 +87,8 @@
                     "img": "images/pictures/glo.jpeg",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2020, "month": 12},
-                    "dateEnd": {"year": 2022, "month": 11},
+                    "dateStart": {"year": 2019, "month": 1},
+                    "dateEnd": {"year": 2019, "month": 4},
                     "locales": {
                         "en": {
                             "title": "{{Backend}} Engineer",
