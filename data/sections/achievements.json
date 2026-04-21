@@ -119,7 +119,7 @@
                     "img": "images/pictures/asoadobe.png",
                     "faIcon": "fa-solid fa-cloud",
                     "faIconColors": {"bg": "#326CE5", "fill": "#EEE"},
-                    "link": {"href": "", "tooltipString": "see_certification"},
+                    "link": {"href": "", "tooltipString": ""},
                     "locales": {
                         "en": {
                             "title": "{{Adobe}} Certified Associate",
