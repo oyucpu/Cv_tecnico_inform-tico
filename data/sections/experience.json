@@ -94,10 +94,10 @@
                             "title": "{{Backend}} Engineer",
                             "province": "New York",
                             "country": "US",
-                            "institution": "Adobe Inc",
+                            "institution": "Globaltics",
                             "text": "Contributed to the development of robust backend systems for Adobe Creative Cloud, integrating third-party services and improving data processing efficiency through cloud functions.",
                             "list": [],
-                            "tags": ["JavaScript", "Flutter", "MongoDB", "CodeIgniter", "Kubernetes"]
+                            "tags": [""]
                         },
                         "es": {
                             "title": "Técnico {{Informático}}",
