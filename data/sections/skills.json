@@ -173,16 +173,17 @@
         "id": 3,
             "img": "images/pictures/diseno_grafico.png",
             "faIcon": "",
-            "faIconColors": {"bg": "", "fill": ""},
+            "faIconColors": {"bg": "", "fill": "#4A90E2"},
             "date": {},
+            "percentage": 50,
             "locales": {
                 "en": {
                     "title": "",
                     "text": ""
                 },
                 "es": {
-                    "title": "",
-                    "text": ""
+                    "title": "Hola",
+                    "text": "Hola"
                 }
             }
         },
