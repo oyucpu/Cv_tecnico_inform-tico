@@ -109,47 +109,6 @@
                             "tags": []
                         }
                     }
-                },
-                {
-                    "id": 4,
-                    "img": "",
-                    "faIcon": "fa-brands fa-apple",
-                    "faIconColors": {"bg": "#111", "fill": "#EEE"},
-                    "dateStart": {"year": 2022, "month": 12},
-                    "dateEnd": {"now": true},
-                    "locales": {
-                        "en": {
-                            "title": "{{Senior Backend}} Developer",
-                            "province": "California",
-                            "country": "US",
-                            "institution": "Apple Inc",
-                            "text": "Leading a team of developers to design and implement backend solutions for Apple's services, with a focus on:",
-                            "list": [
-                                "Security",
-                                "Scalability to handle millions of users globally",
-                                "Developing RESTful APIs",
-                                "Optimizing database performance with PostgreSQL",
-                                "Building services with Swift, PHP, and GraphQL"
-                            ],
-                            "tags": ["JavaScript", "React", "NodeJS", "PHP", "REST APIs", "Docker"]
-                        },
-                        "es": {
-                            "title": "Desarrollador {{Senior Backend}}",
-                            "province": "California",
-                            "country": "EE. UU.",
-                            "institution": "Apple Inc",
-                            "text": "Liderando un equipo de desarrolladores para diseñar e implementar soluciones backend para los servicios de Apple, con enfoque en:",
-                            "list": [
-                                "Seguridad",
-                                "Escalabilidad para manejar millones de usuarios a nivel global",
-                                "Desarrollo de APIs RESTful",
-                                "Optimización del rendimiento de bases de datos con PostgreSQL",
-                                "Creación de servicios con Swift, PHP y GraphQL"
-                            ],
-                            "tags": []
-                        }
-
-                    }
                 }
             ]
         }
