@@ -100,13 +100,13 @@
                             "tags": ["JavaScript", "Flutter", "MongoDB", "CodeIgniter", "Kubernetes"]
                         },
                         "es": {
-                            "title": "Ingeniero {{Backend}}",
-                            "province": "Nueva York",
-                            "country": "EE. UU.",
-                            "institution": "Adobe Inc",
-                            "text": "Contribuí al desarrollo de sistemas backend robustos para Adobe Creative Cloud, integrando servicios de terceros y mejorando la eficiencia del procesamiento de datos mediante funciones en la nube.",
+                            "title": "Técnico {{Informático}}",
+                            "province": "Madrid (Madrid)",
+                            "country": "España",
+                            "institution": "Globaltics",
+                            "text": "Soporte, mantenimiento y optimización de sistemas informáticos en entornos profesionales, asegurando el correcto funcionamiento de redes, equipos y servicios.",
                             "list": [],
-                            "tags": []
+                            "tags": ["Soporte Técnico", "Sistemas", "Redes", "Hardware", "Software", "Informática", "Mantenimiento", "Seguridad Informática"]
                         }
                     }
                 }
