@@ -152,7 +152,7 @@
                     "dateEnd": {"year": 2023, "month": 7 },
                     "preview": {
                         "links": [
-                            {"href": "", "tooltipString": "read", "faIcon": "fa-solid fa-file-pdf"}
+                            {"href": "", "tooltipString": "", "faIcon": ""}
                         ],
                         "screenshots": [],
                         "screenshotsAspectRatio": "",
