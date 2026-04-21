@@ -524,6 +524,40 @@
                     "text": ""
                 }
             }
+        },
+        {
+        "id": 3,
+            "img": "images/pictures/diseno_grafico.png",
+            "faIcon": "",
+            "faIconColors": {},
+            "date": {},
+            "locales": {
+                "en": {
+                    "title": "Graphic Design",
+                    "text": ""
+                },
+                "es": {
+                    "title": "Diseño Gráfico",
+                    "text": ""
+                }
+            }
+        },
+        {
+        "id": 4,
+            "img": "images/pictures/diseno_web.png",
+            "faIcon": "",
+            "faIconColors": {},
+            "date": {},
+            "locales": {
+                "en": {
+                    "title": "Graphic Design",
+                    "text": ""
+                },
+                "es": {
+                    "title": "Diseño Gráfico",
+                    "text": ""
+                }
+            }
         }
     ]
 },
