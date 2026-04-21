@@ -142,12 +142,12 @@
             "percentage": 50,
             "locales": {
                 "en": {
-                    "title": "",
-                    "text": ""
+                    "title": "Creating {{Backups}}",
+                    "text": "Data and system backups to ensure protection against data loss."
                 },
                 "es": {
-                    "title": "",
-                    "text": ""
+                    "title": "Creación de {{Copias de Seguridad}}",
+                    "text": "Copias de Seguridad de datos y sistemas para garantizar la protección contra pérdida de información."
                 }
             }
         },
@@ -157,14 +157,15 @@
             "faIcon": "",
             "faIconColors": {"bg": "", "fill": "#4A90E2" },
             "date": {},
+            "percentage": 50,
             "locales": {
                 "en": {
-                    "title": "Hola mundo",
-                    "text": "¡Hola, mundo!"
+                    "title": "{{Data Recovery}} Tools",
+                    "text": "Data recovery to restore lost or damaged information."
                 },
                 "es": {
                     "title": "Herramientas de {{Recuperación de Datos}}",
-                    "text": ""
+                    "text": "Recuperación de datos para restaurar información perdida o dañada."
                 }
             }
         },
