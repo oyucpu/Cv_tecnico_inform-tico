@@ -137,7 +137,7 @@
             "id": 1,
             "img": "images/pictures/diseno_grafico.png",
             "faIcon": "",
-            "faIconColors": { "bg": "", "fill": "" },
+            "faIconColors": { "bg": "", "fill": "#4A90E2" },
             "date": {},
             "locales": {
                 "en": {
@@ -154,7 +154,7 @@
             "id": 2,
             "img": "images/pictures/diseno_web.png",
             "faIcon": "",
-            "faIconColors": {"bg": "", "fill": "" },
+            "faIconColors": {"bg": "", "fill": "#4A90E2" },
             "date": {},
             "locales": {
                 "en": {
