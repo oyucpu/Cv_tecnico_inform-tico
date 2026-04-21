@@ -148,7 +148,8 @@
             "items": [
                 {
                     "id": 1,
-                    "date": {"year": 2015, "month": 9 },
+                    "dateStart": {"year": 2015, "month": 9 },
+                    "dateEnd": {"year": 2023, "month": 7 },
                     "preview": {
                         "links": [
                             {"href": "", "tooltipString": "read", "faIcon": "fa-solid fa-file-pdf"}
