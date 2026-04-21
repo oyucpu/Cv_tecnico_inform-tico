@@ -118,9 +118,126 @@
                 }
             ]
         },
-
+         {
+    "id": 2,
+    "component": "ArticleSkills",
+    "locales": {
+        "en": { "title": "{{Computer}} Tools" },
+        "es": { "title": "Herramientas {{Informáticas}}" }
+    },
+    "settings": {
+        "max_items_per_row": 6,
+        "max_rows_collapse_threshold": 8,
+        "order_items_by": "percentage",
+        "order_items_sort": "desc",
+        "round_icons": false
+    },
+    "items": [
+        {
+            "id": 1,
+            "img": "images/pictures/diseno_grafico.png",
+            "faIcon": "",
+            "faIconColors": { "bg": "", "fill": "" },
+            "date": {},
+            "locales": {
+                "en": {
+                    "title": "",
+                    "text": ""
+                },
+                "es": {
+                    "title": "",
+                    "text": ""
+                }
+            }
+        },
         {
             "id": 2,
+            "img": "images/pictures/diseno_web.png",
+            "faIcon": "",
+            "faIconColors": {"bg": "", "fill": "" },
+            "date": {},
+            "locales": {
+                "en": {
+                    "title": "",
+                    "text": ""
+                },
+                "es": {
+                    "title": "",
+                    "text": ""
+                }
+            }
+        },
+        {
+        "id": 3,
+            "img": "images/pictures/diseno_grafico.png",
+            "faIcon": "",
+            "faIconColors": {"bg": "", "fill": ""},
+            "date": {},
+            "locales": {
+                "en": {
+                    "title": "",
+                    "text": ""
+                },
+                "es": {
+                    "title": "",
+                    "text": ""
+                }
+            }
+        },
+        {
+        "id": 4,
+            "img": "images/pictures/diseno_web.png",
+            "faIcon": "",
+            "faIconColors": {"bg": "", "fill": ""},
+            "date": {},
+            "locales": {
+                "en": {
+                    "title": "",
+                    "text": ""
+                },
+                "es": {
+                    "title": "",
+                    "text": ""
+                }
+            }
+        },
+        {
+        "id": 5,
+        "img": "images/pictures/diseno_grafico.png",
+        "faIcon": "",
+        "faIconColors": {"bg": "", "fill": ""},
+        "date": {},
+        "locales": {                                                
+            "en": {
+                "title": "Graphic Design",
+                "text": ""
+            },
+            "es": {
+                "title": "Diseño Gráfico",
+                "text": ""
+            }
+        }
+        },
+        {
+        "id": 6,
+        "img": "images/pictures/diseno_web.png",
+        "faIcon": "",
+        "faIconColors": {"bg": "", "fill": ""},
+        "date": {},
+        "locales": {
+            "en": {
+                "title": "Web Design",
+                "text": ""
+            },
+            "es": {
+                "title": "Diseño Web",
+                "text": ""
+            }
+}
+        }
+]},
+        {
+            "id": 3,
             "component": "ArticleSkills",
             "locales": {
                 "en": {"title": "Backend Stack"},
@@ -315,7 +432,7 @@
         },
 
         {
-            "id": 3,
+            "id": 4,
             "component": "ArticleSkills",
             "locales": {
                 "en": {"title": "Frontend Stack"},
@@ -477,7 +594,7 @@
         },
         
         {
-    "id": 4,
+    "id": 5,
     "component": "ArticleSkills",
     "locales": {
         "en": { "title": "Graphic / Web Design" },
@@ -596,7 +713,7 @@
 ]},
 
         {
-            "id": 5,
+            "id": 6,
             "component": "ArticleSkills",
             "locales": {
                 "en": {"title": "Languages"},
