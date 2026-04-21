@@ -154,7 +154,7 @@
         },
         {
             "id": 2,
-            "img": "images/pictures/diseno_web.png",
+            "img": "images/pictures/data.png",
             "faIcon": "",
             "faIconColors": {"bg": "", "fill": "#4A90E2" },
             "date": {},
@@ -170,6 +170,7 @@
                 }
             }
         },
+
         {
         "id": 3,
             "img": "images/pictures/diseno_grafico.png",
