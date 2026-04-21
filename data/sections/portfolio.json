@@ -23,13 +23,13 @@
             "locales": {
                 "en": {
                     "category_all": "All",
-                    "category_apps": "Apps",
+                    "category_apps": "Illustrations",
                     "category_web": "Web",
                     "category_utilities": "Utilities"
                 },
                 "es": {
                     "category_all": "Todo",
-                    "category_apps": "Apps",
+                    "category_apps": "Ilustraciones",
                     "category_web": "Web",
                     "category_utilities": "Utilidades"
                 }
