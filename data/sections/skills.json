@@ -709,7 +709,7 @@
         },
         {
             "id": 2,
-            "img": "images/pictures/ilustrator.png",
+            "img": "images/pictures/ilustrador.png",
             "faIcon": "",
             "faIconColors": {},
             "date": {},
@@ -743,7 +743,7 @@
         },
         {
         "id": 4,
-            "img": "images/pictures/indesing.png",
+            "img": "images/pictures/indesign.png",
             "faIcon": "",
             "faIconColors": {},
             "date": {},
@@ -771,7 +771,7 @@
             },
             "es": {
                 "title": "Diseño Gráfico",
-                "text": ""
+                "text": "Diseño y creación de elementos gráficos para diferentes medios."
             }
         }
         },
