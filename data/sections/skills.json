@@ -209,11 +209,11 @@
         "date": {},
         "locales": {                                                
             "en": {
-                "title": "Graphic Design",
+                "title": "",
                 "text": ""
             },
             "es": {
-                "title": "Diseño Gráfico",
+                "title": "",
                 "text": ""
             }
         }
@@ -226,11 +226,11 @@
         "date": {},
         "locales": {
             "en": {
-                "title": "Web Design",
+                "title": "",
                 "text": ""
             },
             "es": {
-                "title": "Diseño Web",
+                "title": "",
                 "text": ""
             }
 }
