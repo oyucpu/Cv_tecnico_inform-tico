@@ -72,13 +72,13 @@
                             "tags": ["Svelte", "NodeJS", "Laravel", "REST APIs", "Docker"]
                         },
                         "es": {
-                            "title": "Ingeniero {{Full-Stack}}",
-                            "province": "",
-                            "country": "Remoto",
-                            "institution": "Coursera",
-                            "text": "Trabajé en la mejora del sitio web de Coursera implementando nuevas funciones y optimizando la experiencia del usuario, utilizando tecnologías tanto de frontend como de backend para garantizar una funcionalidad fluida.",
+                            "title": "Técnico {{Informático}}",
+                            "province": "Madrid (Madrid)",
+                            "country": "España",
+                            "institution": "Computing Renting S.L.",
+                            "text": "Soporte, mantenimiento y optimización de sistemas informáticos en entornos profesionales, asegurando el correcto funcionamiento de redes, equipos y servicios.",
                             "list": [],
-                            "tags": []
+                            "tags": ["Soporte Técnico", "Sistemas", "Redes", "Hardware", "Software", "Informática", "Mantenimiento", "Seguridad Informática"]
                         }
                     }
                 },
