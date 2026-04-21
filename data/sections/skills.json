@@ -777,18 +777,18 @@
         },
         {
         "id": 6,
-        "img": "images/pictures/diseno_web.png",
+        "img": "images/pictures/au.svg",
         "faIcon": "",
         "faIconColors": {},
         "date": {},
         "locales": {
             "en": {
                 "title": "Web Design",
-                "text": ""
+                "text": "Design and development of attractive and functional websites."
             },
             "es": {
                 "title": "Diseño Web",
-                "text": ""
+                "text": "Diseño y desarrollo de sitios web atractivos y funcionales."
             }
 }
         }
