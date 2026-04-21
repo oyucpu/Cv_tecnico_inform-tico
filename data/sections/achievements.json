@@ -159,11 +159,11 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Best Graduation Project}} – Backend Optimization",
+                            "title": "{{Class Representative}}",
                             "province": "Madrid",
                             "country": "Spain",
                             "institution": "Schools",
-                            "text": "Awarded for outstanding performance in optimizing backend systems during my final year project where I improved the efficiency of data processing by 30%. I have also received a certificate of recognition for this achievement."
+                            "text": "Class Representative for many years, I am a natural leader."
                         },
                         "es": {
                             "title": "{{Delegado de Clase}}",
