@@ -149,7 +149,7 @@
                         },
                         "es": {
                             "title": "Creación de {{Copias de Seguridad}}",
-                            "text": ""
+                            "text": "Creación de {{Copias de Seguridad}} para proteger datos importantes y garantizar su disponibilidad en caso de pérdida o daño.",
                         }
                     }
         },
@@ -203,8 +203,8 @@
                     "text": ""
                 },
                 "es": {
-                    "title": "Instalación y {{Mantenimiento}} de Software, {{Sistemas Operativos}} y su gestión",
-                    "text": ""
+                    "title": "Instalación y {{Mantenimiento}} de Software",
+                    "text": "Instalación y {{Mantenimiento}} de Software, {{Sistemas Operativos}} y su gestión para garantizar un rendimiento óptimo."
                 }
             }
         },
@@ -241,7 +241,7 @@
             },
             "es": {
                 "title": "Mantener {{Sistemas}} y {{PCs}}",
-                "text": ""
+                "text": "Mantener {{Sistemas}} y {{PCs}} para garantizar su funcionamiento óptimo y prolongar su vida útil."
             }
 }
         },
