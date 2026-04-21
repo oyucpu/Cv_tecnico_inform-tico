@@ -446,7 +446,7 @@
                     "img": "",
                     "faIcon": "fa-brands fa-python",
                     "faIconColors": {"bg": "", "fill": "#306998"},
-                    "date": {"year": 2022, "month": 6},
+                    "date": {"year": 2023, "month": 6},
                     "percentage": 20,
                     "locales": {
                         "en": {
@@ -482,7 +482,7 @@
                     "img": "",
                     "faIcon": "fa-solid fa-server",
                     "faIconColors": {"bg": "", "fill": "#47A248"},
-                    "date": {"yearStart": 2022, "yearEnd":2025, "month": 5},
+                    "date": {"yearStart": 2023, "yearEnd":2025, "month": 5},
                     "percentage": 20,
                     "locales": {
                         "en": {
@@ -497,7 +497,7 @@
                     "img": "",
                     "faIcon": "fa-brands fa-git",
                     "faIconColors": {"bg": "", "fill": "#F05032"},
-                    "date": {"year": 2018, "month": 1},
+                    "date": {"year": 2023, "month": 1},
                     "percentage": 30,
                     "locales": {
                         "en": {
@@ -569,7 +569,7 @@
                     "img": "",
                     "faIcon": "fa-brands fa-js",
                     "faIconColors": {"bg": "", "fill": "#F7DF1E", "fillLight": "#a69617"},
-                    "date": {"year": 2020, "month": 3},
+                    "date": {"year": 2023, "month": 3},
                     "percentage": 90,
                     "locales": {
                         "en": {
@@ -587,7 +587,7 @@
                     "img": "",
                     "faIcon": "fa-brands fa-react",
                     "faIconColors": {"bg": "", "fill": "#61DAFB", "fillLight": "#317385"},
-                    "date": {"year": 2020, "month": 6},
+                    "date": {"year": 2023, "month": 6},
                     "percentage": 95,
                     "locales": {
                         "en": {
@@ -623,7 +623,7 @@
                     "img": "",
                     "faIcon": "fa-brands fa-bootstrap",
                     "faIconColors": {"bg": "", "fill": "#7952B3"},
-                    "date": {"year": 2021, "month": 2},
+                    "date": {"year": 2023, "month": 2},
                     "percentage": 90,
                     "locales": {
                         "en": {
