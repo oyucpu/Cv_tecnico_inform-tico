@@ -136,8 +136,8 @@
         {
  
                     "id": 1,
-                    "img": "",
-                    "faIcon": "fa-brands fa-node-js",
+                    "img": "images/pictures/copia.png",
+                    "faIcon": "",
                     "faIconColors": {"bg": "", "fill": "#339933"},
                     "date": {"year": 2023, "month": 2},
                     "percentage": 50,
