@@ -126,8 +126,8 @@
         "es": { "title": "Herramientas {{Informáticas}}" }
     },
     "settings": {
-        "max_items_per_row": 6,
-        "max_rows_collapse_threshold": 8,
+        "max_items_per_row": 3,
+        "max_rows_collapse_threshold": 6,
         "order_items_by": "percentage",
         "order_items_sort": "desc",
         "round_icons": false
