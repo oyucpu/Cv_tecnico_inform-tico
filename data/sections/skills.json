@@ -484,9 +484,9 @@
         "es": { "title": "Diseño Gráfico / Web" }
     },
     "settings": {
-        "max_items_per_row": 3,
-        "max_rows_collapse_threshold": 6,
-        "order_items_by": "percentage",
+        "max_items_per_row": 4,
+        "max_rows_collapse_threshold": 3,
+        "order_items_by": "",
         "order_items_sort": "desc",
         "round_icons": false
     },
@@ -495,17 +495,16 @@
             "id": 1,
             "img": "images/pictures/diseno_grafico.png",
             "faIcon": "",
-            "faIconColors": { "bg": "", "fill": "#7952B3" },
-            "date": { "year": 2026, "month": 4 },
-            "percentage": 90,
+            "faIconColors": {},
+            "date": {},
             "locales": {
                 "en": {
                     "title": "Graphic Design",
-                    "text": "Creative and modern graphic design for digital projects."
+                    "text": ""
                 },
                 "es": {
                     "title": "Diseño Gráfico",
-                    "text": "Diseño gráfico creativo y moderno para proyectos digitales."
+                    "text": ""
                 }
             }
         },
@@ -513,17 +512,16 @@
             "id": 2,
             "img": "images/pictures/diseno_web.png",
             "faIcon": "",
-            "faIconColors": { "bg": "", "fill": "" },
-            "date": { "year": 2026, "month": 4 },
-            "percentage": 95,
+            "faIconColors": {},
+            "date": {},
             "locales": {
                 "en": {
                     "title": "Web Design",
-                    "text": "Modern, responsive and user‑centered web design."
+                    "text": ""
                 },
                 "es": {
                     "title": "Diseño Web",
-                    "text": "Diseño web moderno, responsivo y centrado en el usuario."
+                    "text": ""
                 }
             }
         }
