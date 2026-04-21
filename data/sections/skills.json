@@ -139,7 +139,7 @@
                     "img": "images/pictures/copia.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": "#339933"},
-                    "date": {"year": 2023, "month": 2},
+                    "date": {},
                     "percentage": 50,
                     "locales": {
                         "en": {
@@ -149,7 +149,7 @@
                         },
                         "es": {
                             "title": "Creación de {{Copias de Seguridad}}",
-                            "text": "Desarrollador certificado por la Fundación Node.js."
+                            "text": ""
                         }
                     }
         },
