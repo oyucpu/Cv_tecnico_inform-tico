@@ -181,12 +181,12 @@
             "percentage": 100,
             "locales": {
                 "en": {
-                    "title": "Hi",
+                    "title": "",
                     "text": ""
                 },
                 "es": {
-                    "title": "Hola",
-                    "text": "Hola"
+                    "title": "Reparación de {{Ordenadores}}",
+                    "text": "Reparación de ordenadores para solucionar problemas técnicos y mejorar el rendimiento."
                 }
             }
         },
