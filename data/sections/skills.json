@@ -192,37 +192,37 @@
         },
         {
         "id": 4,
-            "img": "images/pictures/diseno_web.png",
+            "img": "images/pictures/sof.png",
             "faIcon": "",
             "faIconColors": {"bg": "", "fill": "#4A90E2"},
             "date": {},
-            "percentage": 100,
+            "percentage": 60,
             "locales": {
                 "en": {
                     "title": "",
                     "text": ""
                 },
                 "es": {
-                    "title": "",
+                    "title": "Instalación y {{Mantenimiento}} de Software, {{Sistemas Operativos}} y su gestión",
                     "text": ""
                 }
             }
         },
         {
         "id": 5,
-        "img": "images/pictures/diseno_grafico.png",
+        "img": "images/pictures/pru.png",
         "faIcon": "",
         "faIconColors": {"bg": "", "fill": "#4A90E2"},
         "date": {},
-        "percentage": 100,
+        "percentage": 50,
         "locales": {                                                
             "en": {
                 "title": "",
                 "text": ""
             },
             "es": {
-                "title": "",
-                "text": ""
+                "title": "Hardware",
+                "text": "Instalación, gestión y mantenimiento de hardware para garantizar un rendimiento óptimo."
             }
         }
         },
