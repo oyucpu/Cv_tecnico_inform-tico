@@ -194,7 +194,7 @@
         "id": 4,
             "img": "images/pictures/diseno_web.png",
             "faIcon": "",
-            "faIconColors": {"bg": "", "fill": ""},
+            "faIconColors": {"bg": "", "fill": "#4A90E2"},
             "date": {},
             "percentage": 100,
             "locales": {
@@ -212,7 +212,7 @@
         "id": 5,
         "img": "images/pictures/diseno_grafico.png",
         "faIcon": "",
-        "faIconColors": {"bg": "", "fill": ""},
+        "faIconColors": {"bg": "", "fill": "#4A90E2"},
         "date": {},
         "percentage": 100,
         "locales": {                                                
@@ -230,7 +230,7 @@
         "id": 6,
         "img": "images/pictures/diseno_web.png",
         "faIcon": "",
-        "faIconColors": {"bg": "", "fill": ""},
+        "faIconColors": {"bg": "", "fill": "#4A90E2"},
         "date": {},
         "percentage": 100,
         "locales": {
@@ -248,7 +248,7 @@
         "id": 7,
         "img": "images/pictures/diseno_web.png",
         "faIcon": "",
-        "faIconColors": {"bg": "", "fill": ""},
+        "faIconColors": {"bg": "", "fill": "#4A90E2"},
         "date": {},
         "percentage": 100,
         "locales": {
@@ -266,7 +266,7 @@
         "id": 8,
         "img": "images/pictures/diseno_web.png",
         "faIcon": "",
-        "faIconColors": {"bg": "", "fill": ""},
+        "faIconColors": {"bg": "", "fill": "#4A90E2"},
         "date": {},
         "percentage": 100,
         "locales": {
@@ -284,7 +284,7 @@
         "id": 9,
         "img": "images/pictures/diseno_web.png",
         "faIcon": "",
-        "faIconColors": {"bg": "", "fill": ""},
+        "faIconColors": {"bg": "", "fill": "#4A90E2"},
         "date": {},
         "percentage": 100,
         "locales": {
@@ -302,7 +302,7 @@
         "id": 10,
         "img": "images/pictures/diseno_web.png",
         "faIcon": "",
-        "faIconColors": {"bg": "", "fill": ""},
+        "faIconColors": {"bg": "", "fill": "#4A90E2"},
         "date": {},
         "percentage": 100,
         "locales": {
