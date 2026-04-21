@@ -265,19 +265,19 @@
         },
         {
         "id": 8,
-        "img": "images/pictures/diseno_web.png",
+        "img": "images/pictures/si.png",
         "faIcon": "",
         "faIconColors": {"bg": "", "fill": "#4A90E2"},
         "date": {},
-        "percentage": 100,
+        "percentage": 20,
         "locales": {
             "en": {
                 "title": "",
                 "text": ""
             },
             "es": {
-                "title": "",
-                "text": ""
+                "title": "Seguridad {{Informática}}",
+                "text": "Implementación y gestión de medidas de seguridad informática para proteger los sistemas y datos."
             }
 }
         },
