@@ -754,20 +754,20 @@
                 },
                 "es": {
                     "title": "Diseño Gráfico",
-                    "text": ""
+                    "text": "Diseño y creación de elementos gráficos para diferentes medios."
                 }
             }
         },
         {
         "id": 5,
-        "img": "images/pictures/diseno_grafico.png",
+        "img": "images/pictures/pp.svg",
         "faIcon": "",
         "faIconColors": {},
         "date": {},
         "locales": {                                                
             "en": {
                 "title": "Graphic Design",
-                "text": ""
+                "text": "Design and creation of graphical elements for different media."
             },
             "es": {
                 "title": "Diseño Gráfico",
