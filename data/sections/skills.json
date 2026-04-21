@@ -558,9 +558,42 @@
                     "text": ""
                 }
             }
+        },
+        {
+        "id": 5,
+        "img": "images/pictures/diseno_grafico.png",
+        "faIcon": "",
+        "faIconColors": {},
+        "date": {},
+        "locales": {                                                
+            "en": {
+                "title": "Graphic Design",
+                "text": ""
+            },
+            "es": {
+                "title": "Diseño Gráfico",
+                "text": ""
+            }
         }
-    ]
-},
+        },
+        {
+        "id": 6,
+        "img": "images/pictures/diseno_web.png",
+        "faIcon": "",
+        "faIconColors": {},
+        "date": {},
+        "locales": {
+            "en": {
+                "title": "Web Design",
+                "text": ""
+            },
+            "es": {
+                "title": "Diseño Web",
+                "text": ""
+            }
+}
+        }
+]},
 
         {
             "id": 5,
