@@ -143,11 +143,12 @@
                     "percentage": 50,
                     "locales": {
                         "en": {
-                            "title": "Node.js",
+                            "title": "Creación de {{}}",
                             "text": "Certified developer by Node.js Foundation.",
                             "level": ""
                         },
                         "es": {
+                            "title": "Creación de {{Copias de Seguridad}}",
                             "text": "Desarrollador certificado por la Fundación Node.js."
                         }
                     }
