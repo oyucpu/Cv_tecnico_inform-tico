@@ -148,10 +148,11 @@
             "items": [
                 {
                     "id": 1,
-                    "date": {"yearStart": 2015, "month": 9, "yearEnd": 2023, "monthEnd": 7},
+                    "date": {"yearStart": 2015, "month": 9, 
+                             "yearEnd": 2023, "monthEnd": 7},
                     "preview": {
                         "links": [
-                            {"href": "https://mag.wcoomd.org/uploads/2018/05/blank.pdf", "tooltipString": "read", "faIcon": "fa-solid fa-file-pdf"}
+                            {"href": "", "tooltipString": "read", "faIcon": "fa-solid fa-file-pdf"}
                         ],
                         "screenshots": [],
                         "screenshotsAspectRatio": "",
