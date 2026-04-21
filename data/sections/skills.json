@@ -148,6 +148,7 @@
                             "level": ""
                         },
                         "es": {
+                            "title": "Creación de {{Copias de Seguridad}}",
                             "text": "Desarrollador certificado por la Fundación Node.js."
                         }
                     }
