@@ -301,19 +301,19 @@
         },
         {
         "id": 10,
-        "img": "images/pictures/diseno_web.png",
+        "img": "images/pictures/firewall.png",
         "faIcon": "",
         "faIconColors": {"bg": "", "fill": "#4A90E2"},
         "date": {},
-        "percentage": 100,
+        "percentage": 10,
         "locales": {
             "en": {
-                "title": "",
+                "title": "Firewall",
                 "text": ""
             },
             "es": {
-                "title": "",
-                "text": ""
+                "title": "Firewall",
+                "text": "Configuración y gestión de firewalls para proteger las redes y sistemas."
             }
 }
         }
