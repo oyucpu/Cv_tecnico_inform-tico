@@ -283,19 +283,19 @@
         },
         {
         "id": 9,
-        "img": "images/pictures/diseno_web.png",
+        "img": "images/pictures/web.png",
         "faIcon": "",
         "faIconColors": {"bg": "", "fill": "#4A90E2"},
         "date": {},
-        "percentage": 100,
+        "percentage": 80,
         "locales": {
             "en": {
                 "title": "",
                 "text": ""
             },
             "es": {
-                "title": "",
-                "text": ""
+                "title": "Creación de {{páginas web}}",
+                "text": "Creación de páginas web para establecer una presencia en línea y compartir información de manera efectiva."
             }
 }
         },
