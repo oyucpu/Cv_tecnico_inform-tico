@@ -305,11 +305,11 @@
         "faIcon": "",
         "faIconColors": {"bg": "", "fill": "#4A90E2"},
         "date": {},
-        "percentage": 10,
+        "percentage": 100,
         "locales": {
             "en": {
                 "title": "Firewall",
-                "text": ""
+                "text": "Configuration and management of firewalls to protect networks and systems."
             },
             "es": {
                 "title": "Firewall",
