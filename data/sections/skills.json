@@ -290,8 +290,8 @@
         "percentage": 80,
         "locales": {
             "en": {
-                "title": "",
-                "text": ""
+                "title": "Web {{Development}}",
+                "text": "Design and development of websites to establish an online presence and share information effectively."
             },
             "es": {
                 "title": "Creación de {{páginas web}}",
@@ -374,7 +374,7 @@
                     "img": "images/pictures/lua_logo.png",
                     "faIcon": "fa-solid fa-lua",
                     "faIconColors": {"bg": "", "fill": "#CC0000"},
-                    "date": {"year": 2020, "month": 8},
+                    "date": {"year": 2025, "month": 8},
                     "percentage": 40,
                     "locales": {
                         "en": {
