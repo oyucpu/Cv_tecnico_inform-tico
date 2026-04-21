@@ -484,8 +484,8 @@
         "es": { "title": "Diseño Gráfico / Web" }
     },
     "settings": {
-        "max_items_per_row": 4,
-        "max_rows_collapse_threshold": 6,
+        "max_items_per_row": 6,
+        "max_rows_collapse_threshold": 8,
         "order_items_by": "",
         "order_items_sort": "desc",
         "round_icons": false
