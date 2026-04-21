@@ -138,7 +138,7 @@
             "component": "ArticleThread",
             "locales": {
                 "en": { "title": "Awards" },
-                "es": { "title": "Premios" }
+                "es": { "title": "Premios / Logros" }
             },
             "settings": {
                 "max_rows_collapse_threshold": 4,
@@ -148,7 +148,7 @@
             "items": [
                 {
                     "id": 1,
-                    "date": {"year": 2019, "month": 9},
+                    "date": {"yearStart": 2015, "month": 9, "yearEnd": 2023, "monthEnd": 7},
                     "preview": {
                         "links": [
                             {"href": "https://mag.wcoomd.org/uploads/2018/05/blank.pdf", "tooltipString": "read", "faIcon": "fa-solid fa-file-pdf"}
@@ -160,17 +160,17 @@
                     "locales": {
                         "en": {
                             "title": "{{Best Graduation Project}} – Backend Optimization",
-                            "province": "Massachusetts",
-                            "country": "US",
-                            "institution": "MIT",
+                            "province": "Madrid",
+                            "country": "Spain",
+                            "institution": "Schools",
                             "text": "Awarded for outstanding performance in optimizing backend systems during my final year project where I improved the efficiency of data processing by 30%. I have also received a certificate of recognition for this achievement."
                         },
                         "es": {
-                            "title": "{{Mejor Proyecto de Fin de Carrera}} – Optimización Backend",
-                            "province": "Massachusetts",
-                            "country": "EE.UU.",
-                            "institution": "MIT",
-                            "text": "Premiado por un rendimiento excepcional en la optimización de sistemas backend durante mi proyecto de fin de carrera, donde mejoré la eficiencia del procesamiento de datos en un 30%. También he recibido un certificado de reconocimiento por este logro."
+                            "title": "{{Delegado de Clase}}",
+                            "province": "Madrid",
+                            "country": "Spain",
+                            "institution": "Colegios e institutos",
+                            "text": "Delegado de Clase, durante mucho tiempo, soy un lider innato."
                         }
                     }
                 },
