@@ -495,7 +495,7 @@
             "id": 1,
             "img": "images/pictures/diseno_grafico.png",
             "faIcon": "",
-            "faIconColors": { "bg": "", "fill": "" },
+            "faIconColors": { "bg": "", "fill": "#7952B3" },
             "date": { "year": 2026, "month": 4 },
             "percentage": 90,
             "locales": {
