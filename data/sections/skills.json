@@ -234,6 +234,74 @@
                 "text": ""
             }
 }
+        },
+        {
+        "id": 6,
+        "img": "images/pictures/diseno_web.png",
+        "faIcon": "",
+        "faIconColors": {"bg": "", "fill": ""},
+        "date": {},
+        "locales": {
+            "en": {
+                "title": "",
+                "text": ""
+            },
+            "es": {
+                "title": "",
+                "text": ""
+            }
+}
+        },
+        {
+        "id": 7,
+        "img": "images/pictures/diseno_web.png",
+        "faIcon": "",
+        "faIconColors": {"bg": "", "fill": ""},
+        "date": {},
+        "locales": {
+            "en": {
+                "title": "",
+                "text": ""
+            },
+            "es": {
+                "title": "",
+                "text": ""
+            }
+}
+        },
+        {
+        "id": 9,
+        "img": "images/pictures/diseno_web.png",
+        "faIcon": "",
+        "faIconColors": {"bg": "", "fill": ""},
+        "date": {},
+        "locales": {
+            "en": {
+                "title": "",
+                "text": ""
+            },
+            "es": {
+                "title": "",
+                "text": ""
+            }
+}
+        },
+        {
+        "id": 10,
+        "img": "images/pictures/diseno_web.png",
+        "faIcon": "",
+        "faIconColors": {"bg": "", "fill": ""},
+        "date": {},
+        "locales": {
+            "en": {
+                "title": "",
+                "text": ""
+            },
+            "es": {
+                "title": "",
+                "text": ""
+            }
+}
         }
 ]},
         {
