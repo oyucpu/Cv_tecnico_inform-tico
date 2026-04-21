@@ -196,6 +196,7 @@
             "faIcon": "",
             "faIconColors": {"bg": "", "fill": ""},
             "date": {},
+            "percentage": 100,
             "locales": {
                 "en": {
                     "title": "",
@@ -213,6 +214,7 @@
         "faIcon": "",
         "faIconColors": {"bg": "", "fill": ""},
         "date": {},
+        "percentage": 100,
         "locales": {                                                
             "en": {
                 "title": "",
@@ -230,23 +232,7 @@
         "faIcon": "",
         "faIconColors": {"bg": "", "fill": ""},
         "date": {},
-        "locales": {
-            "en": {
-                "title": "",
-                "text": ""
-            },
-            "es": {
-                "title": "",
-                "text": ""
-            }
-}
-        },
-        {
-        "id": 6,
-        "img": "images/pictures/diseno_web.png",
-        "faIcon": "",
-        "faIconColors": {"bg": "", "fill": ""},
-        "date": {},
+        "percentage": 100,
         "locales": {
             "en": {
                 "title": "",
@@ -264,6 +250,25 @@
         "faIcon": "",
         "faIconColors": {"bg": "", "fill": ""},
         "date": {},
+        "percentage": 100,
+        "locales": {
+            "en": {
+                "title": "",
+                "text": ""
+            },
+            "es": {
+                "title": "",
+                "text": ""
+            }
+}
+        },
+        {
+        "id": 8,
+        "img": "images/pictures/diseno_web.png",
+        "faIcon": "",
+        "faIconColors": {"bg": "", "fill": ""},
+        "date": {},
+        "percentage": 100,
         "locales": {
             "en": {
                 "title": "",
@@ -281,6 +286,7 @@
         "faIcon": "",
         "faIconColors": {"bg": "", "fill": ""},
         "date": {},
+        "percentage": 100,
         "locales": {
             "en": {
                 "title": "",
@@ -298,6 +304,7 @@
         "faIcon": "",
         "faIconColors": {"bg": "", "fill": ""},
         "date": {},
+        "percentage": 100,
         "locales": {
             "en": {
                 "title": "",
