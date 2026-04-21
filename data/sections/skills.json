@@ -159,8 +159,8 @@
             "date": {},
             "locales": {
                 "en": {
-                    "title": "",
-                    "text": ""
+                    "title": "Hola mundo",
+                    "text": "¡Hola, mundo!"
                 },
                 "es": {
                     "title": "",
