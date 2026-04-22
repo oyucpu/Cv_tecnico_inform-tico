@@ -28,16 +28,16 @@
             "items": [
                 {
                     "id": 1,
-                    "img": null,
+                    "img": "images/pictures/m.png",
                     "faIcon": "fa-solid fa-tablet-screen-button",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
                             "title": "03",
-                            "text": "Working on Body and Mind (Meditating)"
+                            "text": "Working on Body Mind and Soul (Meditating)"
                         },
                         "es": {
-                            "text": "Trabajando en  Cuerpo y Meminte (Meditando)"
+                            "text": "Trabajando en el Cuerpo, Mente y Alma (Meditando)"
                         }
                     }
                 },
@@ -73,16 +73,16 @@
                 },
                 {
                     "id": 4,
-                    "img": null,
+                    "img": "images/pictures/med.png",
                     "faIcon": "fa-solid fa-diagram-project",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "title": "07",
-                            "text": "Open-source projects"
+                            "title": "Ying-Yang",
+                            "text": "Philosophy and Mindset of the Ying-Yang (Balance between work and life)"
                         },
                         "es": {
-                            "text": "Proyectos de Código Abierto"
+                            "text": "Filosofía y Mentalidad del Ying-Yang"
                         }
                     }
                 },
