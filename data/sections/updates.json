@@ -29,7 +29,7 @@
                 {
                     "id": 1,
                     "img": "images/pictures/m.png",
-                    "faIcon": "fa-solid fa-tablet-screen-button",
+                    "faIcon": "fa-solid fa-person-meditating",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
