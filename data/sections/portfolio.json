@@ -233,7 +233,7 @@
                     "categoryId": "category_web",
                     "img": "",
                     "faIcon": "fa-solid fa-guitar",
-                    "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
+                    "faIconColors": {"bg": "#7671AA", "fill": ""},
                     "preview": {
                         "links": [
                             {"href": "https://google.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
@@ -291,7 +291,7 @@
                     "categoryId": "category_apps",
                     "img": "",
                     "faIcon": "fa-solid fa-truck-fast",
-                    "faIconColors": {"bg": "#007396", "fill": "#EEEEEE"},
+                    "faIconColors": {"bg": "#007396", "fill": ""},
                     "preview": {
                         "links": [
                             {"href": "https://apple.com", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-apple"},
