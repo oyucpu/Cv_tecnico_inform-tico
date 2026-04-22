@@ -33,10 +33,11 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "title": "03",
+                            "title": "Meditating",
                             "text": "Working on Body Mind and Soul (Meditating)"
                         },
                         "es": {
+                            "title": "Meditando",
                             "text": "Trabajando en el Cuerpo, Mente y Alma (Meditando)"
                         }
                     }
